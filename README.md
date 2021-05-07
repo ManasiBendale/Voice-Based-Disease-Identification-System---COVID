@@ -1,1 +1,1 @@
-# Voice-Based-Disease-Identification-System---COVID
+# Voice-Based-Disease-Identification-System-COVID
